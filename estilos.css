@@ -1,0 +1,10 @@
+table,td,th,tr {
+    border: 1px solid black;
+    
+  }
+  #para1{
+      background: white;
+  }
+  #para10 {
+      background: black;
+  }
